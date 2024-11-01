@@ -54,7 +54,7 @@ PHI = 0.5 * (-1.0 + (5.0)**0.5)
 N_PC = 50
 
 
-class Bdollar:
+class Mdollar:
     """
     template input should be gesture name x data
     where data contains N types of biosignal data
