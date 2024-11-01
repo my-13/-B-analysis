@@ -3,7 +3,7 @@
 import numpy as np
 
 """
-Written by Momona Yamagami, PhD 
+Written by Anonymous
 Last updated: 2/15/2024
 
 EMG features originally defined in: 
