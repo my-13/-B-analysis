@@ -1,4 +1,4 @@
-# Python $M Unistroke Recognizer
+# Python $B Unistroke Recognizer
 # 
 # This file contains a Python implementation of the $M algorithm.
 # The material used can be found online at: [TO BE ADDED]
@@ -10,7 +10,7 @@
 #
 # This software is distributed under the "New BSD License" agreement:
 #
-# Copyright (C) 2024, Momona Yamagami, Claire Mitchell, Jacob Wobbrock, Jennifer Mankoff
+# Copyright (C) 2024, Anonymous
 # All rights reserved. Last updated April 20, 2024.
 #
 # Redistribution and use in source and binary forms, with or without
