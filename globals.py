@@ -22,7 +22,7 @@ from scipy.interpolate import interp1d
 from scipy.optimize import minimize
 from sklearn.decomposition import PCA,NMF
 import seaborn as sns
-from mdollar import Mdollar
+from bdollar import Mdollar
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import confusion_matrix,ConfusionMatrixDisplay
