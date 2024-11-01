@@ -1,8 +1,8 @@
 # Momona Yamagami
 
-global_path = "D:\\Research\\OneDrive - UW\\Data\\UW biosignal gesture study\\" # home
-temp_path = "D:\\Research\\2024_UIST_dataset\\upload\\segmented_filtered_data\\"
-models_path = "D:\\Research\\2024_UIST_dataset\\models\\"
+global_path = " " # home anonymized
+temp_path = " " # anonymized
+models_path = " " # anonymized
 
 extract_path = "segmented_raw_data\\"
 to_save_path = "segmented_filtered_data\\"
