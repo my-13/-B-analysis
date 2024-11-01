@@ -1,10 +1,6 @@
 ###
 ### $B.R
 ###
-### Jacob O. Wobbrock, Ph.D.
-### wobbrock@uw.edu
-### March 25, 2024
-###
 
 
 library(plyr) # for ddply
