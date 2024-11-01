@@ -1,5 +1,3 @@
-# Momona Yamagami
-
 global_path = " " # home anonymized
 temp_path = " " # anonymized
 models_path = " " # anonymized
