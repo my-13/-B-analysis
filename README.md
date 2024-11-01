@@ -1,2 +1,2 @@
-# -B-analysis
+# B-analysis
 Analysis code for $B gesture recognizer
